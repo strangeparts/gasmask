@@ -8,4 +8,6 @@ This is a 3d printable gas mask design.  It's printed in 3 parts - the main mask
 
 The filter material is activated charcoal - you can buy this at any pet store.  Put a layer of cotton batting in the bottom of the canister, then fill with activated charcoal, then put another layer of cotton on top, and screw the canister into the mask.
 
+You can find a NATO 40mm mount compatible version in the NATO folder. Or at least the begginigs of it!
+
 Pull requests welcome!
