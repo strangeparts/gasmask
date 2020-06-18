@@ -1,5 +1,5 @@
 These are bits and pieces we used in building the mask and accesories!
 
-For the female thread you can see two versions, `Gas_Mask_Female_Thread` is continuos, while `Gas_Mask_Female_Thread_with_endstop` has an stop 10mm into the thread to assure compatibility with all NATO containers.
+The female thread has the stop on it as per specification, to guarantee a seal with all canister designs.
 
-On the male side it is a similar story, `Gas_Mask_Male_Thread_short` was simply shortened to not be pointlesly long when using the shorter female thread. Also keep in my mind that only one side is chamfered for optimal insertion.
+The male thread was also shortened to not be pointlesly long when using the shorter female thread. Also keep in my mind that only one side is chamfered for optimal insertion.
