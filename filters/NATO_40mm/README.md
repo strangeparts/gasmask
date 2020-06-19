@@ -5,6 +5,7 @@
 | Filter | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
 | - | - | - | - |
 | Trypophobic9000 | &#10003; | 120 | ~200 |
+| SeriousOne | &#10003; | 120 | ~200 |
 
 ## External Designs
 
