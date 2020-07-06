@@ -3,6 +3,6 @@ Due to the potentially large volume of filter canisters, a one way exhale valve 
 
 ## Variations
 
-| Valve | Description | Status |
-| - | - | - |
-| FullyPrintedValve | Requires no extra parts. Not a perfect seal but useful if resources are limited. | Prototype - Needs testing |
+| Valve | Description | Print Time | Status |
+| - | - | - | - |
+| FullyPrintedValve | Requires no extra parts. Not a perfect seal but useful if resources are limited. | ~2h | Tested |
