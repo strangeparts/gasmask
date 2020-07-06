@@ -39,7 +39,8 @@ In order to build this valve, you will need:
 7. Press fit the inlet plate into the hole to capture the diaphragm. Ensure that the inlet plate is oriented so the side that was touching the print bed is facing down, towards the diaphragm. The inlet plate should be flush with the body when fully seated.
 8. Use a piece of aluminum foil or duct tape to over the inlet plate, pressing to ensure a good seal.
 9. Trim the excess tape, ensuring that the tape extends completely to the edge and does not stop too close to the seam between the valve body and inlet plate. A little extra is fine, but too little will allow a leak. If tape is not available, glue may suffice at your own risk.
-10. Using a fingernail or sharp tool, score or cut the ridge around the center hole of the inlet plate to allow air to flow through. Avoid putting anything through the air hole to avoid damaging the diaphragm.
+10. Using a fingernail or sharp tool, score or cut the ridge around the center hole of the inlet plate and remove the resulting circle of tape to allow air to flow through the center hole. Avoid putting anything through the air hole to avoid damaging the diaphragm.
+11. Finally, you can test the valve by putting your mouth on either end. Air should be able to flow from the inlet plate through to the end with the knob. Airflow in the opposite direction should be close to nonexistent.
 
 ## Safety Warnings
 
