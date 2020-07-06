@@ -45,9 +45,9 @@ To ensure compatibility between components in this repository, all connections u
 1. Print Material: PLA can be brittle and sharp in the event that it breaks. It is recommended to use PETG or Nylon if possible, especially if the risks of PLA shattering could be an issue in the environment you plan on using it or if you expect the mask to be subjected to stresses or impacts.
 2. Face Gasket: When using a hard plastic material, it is extremely unlikely that a proper seal will form between the mask and the user's face. Some form of gasket or appropriate foam should be added around the edge of the mask to ensure an airtight seal.
 3. Fit / Seal / Leak Testing: It is highly recommended to test the mask for leaks and fit quality.
-4. Exhale / Vent Valve: The amount of dead space inside the mask and filters can lead to a risk of asphyxiation. All masks in this repository have provisions for installing an exhale valve. Please be sure to assemble and install one in every mask. Currently, there are no completed valve designs for the masks in this repository. Designs in this repository should not be used in real world scenarios until valves are available.
+4. Exhale / Vent Valve: The amount of dead space inside the mask and filters can lead to a risk of asphyxiation. All masks in this repository have provisions for installing an exhale valve. Please be sure to assemble and install one in every mask.
 5. Gaskets / Glue: Every connection point between parts must have an airtight seal with the exception of filter canister lids on the dirty side of the filter media. See the documentation included with each part to ensure the proper seal is achieved. Alternatively, parts that do not need to be disassembled may be glued together with the appropriate glue.
 
 ## Contributing
 
-Pull requests welcome!
+Pull requests welcome! Join the discussion on [Discord](https://discord.gg/7X2bSzY).

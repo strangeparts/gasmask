@@ -4,7 +4,7 @@ This valve was designed to be completely 3D printed, in the event that no other 
 
 ## Assembly
 
-The valve comes in 3 parts - be sure these are separated into separate objects when printing:
+The valve comes in 3 parts:
 
 * The main body which consists of the threads, tightening knob, and valve chamber
 * The diaphragm, which is a 0.2mm thin disc with a ring of holes
