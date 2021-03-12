@@ -9,5 +9,5 @@ Between the two pieces you should place a circular piece of a latex glove type m
 As for assembly, if you find it difficult to stretch out the latex properly, you can put the `BalloonValve-Inlet` piece up against a vacuum cleaner to hold the membrane stretched out and then put on the `BalloonValve-Body` piece onto it. It should snap right together.
 
 <p align="center">
-  <img src="/images/BalloonValve.png">
+  <img src="/valves/BalloonValve/BalloonValve.png">
  </p>
