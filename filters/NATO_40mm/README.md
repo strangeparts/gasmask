@@ -2,14 +2,15 @@
 
 ## Variations
 
-| Filter | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
-| - | - | - | - |
-| CustomizableAF | &#10003; | 120 | ~200 |
+| Name | Description | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
+| - | - | - | - | - |
+| BottleFilterAdapter | Allows using plastic bottles as a filter | &#10003; | Variable | Variable |
+| CustomizableAF |  | &#10003; | 120 | ~200 |
 
 ## External Designs
 
 > Note: These designs may not be tested or validated
 
-| Filter | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
+| Name | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
 | - | - | - | - |
 | [Reusable gas mask filter - 40mm thread by Bastrym](https://www.thingiverse.com/thing:4236518) | &#10003; |  |  |
