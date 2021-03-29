@@ -6,6 +6,8 @@
 
 This component allows using water bottles / carbonated soft drink bottles to build homemade filters.
 
+The threads on this design were created using information from [this specification](https://web.archive.org/web/20210329170423/https://www.isbt.com/assets/Threadspecs/pco1810.pdf).
+
 ## Overview
 
 There are 2 common standards for plastic bottles - PCO-1810 and PCO-1881. The first is the older standard, and the second is the newer standard with a lower profile and less material.
