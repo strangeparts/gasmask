@@ -1,5 +1,9 @@
 # BottleFilterAdapter
 
+<p align="center">
+  <img width=600 src="images/render.png" alt="Render of the respirator body" />
+</p>
+
 This component allows using water bottles / carbonated soft drink bottles to build homemade filters.
 
 ## Overview
