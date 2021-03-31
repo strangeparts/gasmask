@@ -20,24 +20,28 @@ Currently this design only works with PCO-1810, a PCO-1881 variant may be added 
 
 1. The printed adapter
 2. A plastic water bottle or soft drink bottle
-3. Glue / epoxy suitable for plastics (Optional)
+3. A US #18 size o-ring (metric 1.78x18.77mm) (preferred) or glue / epoxy suitable for plastics
 
 ### Print Parameters
 
-* Print Time: Approximately 1 hour 30 minutes
+* Print Time: Approximately 1 hour 45 minutes
 * Nozzle Size: 0.4mm
 * Layer Height: 0.2mm
 * Infill: 15%
-* Supports: On or Buildplate Only
+* Supports: On build plate only (prevents support material in between threads, aiding with support removal)
 * Walls: 2
 
 ### Assembly
 
 1. Print the adapter in the default orientation - with the knob on the print surface.
 2. Carefully remove all the support material from the bottle threads.
-3. Add glue to the bottle and adapter bottle threads. (Optional)
-4. Screw the bottle filter into the adapter.
+3. Remove the bottle cap safety seal from the bottle (the plastic ring that detaches from the cap when opening), and replace it with the o-ring. Alternatively, add glue to the bottle and adapter bottle threads.
+
+  <img width=400 src="images/oring_placement.jpg" alt="Image of proper o-ring placement" />
+
+
+4. Screw the bottle filter into the adapter until the o-ring is fully seated.
 
 ## Safety Warnings
 
-* This design does not achieve a perfect seal, it's recommended to print an adapter for each bottle and glue it together.
+* This design will not achieve a seal if an o-ring or glue is not used. Always test the seal to ensure your selection of o-ring/glue is effective.
