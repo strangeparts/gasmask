@@ -4,8 +4,8 @@
 
 | Name | Description | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
 | - | - | - | - | - |
-| BottleFilterAdapter | Allows using plastic bottles as a filter | &#10003; | Variable | Variable |
-| CustomizableAF |  | &#10003; | 120 | ~200 |
+| BottleFilterAdapter | Allows using plastic bottles as a filter body | &#10003; | Variable | Variable |
+| CustomizableAF | Fully 3D printed filter canister body | &#10003; | 120 | ~200 |
 
 ## External Designs
 
