@@ -1,0 +1,22 @@
+<!--
+Please review the checklists below before submitting your pull request:
+-->
+
+- [ ] This is a new component
+  - [ ] All component files are contained under `component-type/component-name`
+  - [ ] A `README.md` exists in the component folder
+  - [ ] The readme contains a screenshot of the component
+  - [ ] The component list readme `/component-type/(filter-size?)/README.md` has been updated to include the new component
+  - [ ] The readme (loosely) describes the purpose of each file or lists the files / materials needed for each variation (if there are options)
+
+
+- [ ] This is a modification of a component
+  - Description of problem:
+  - Description of solution:
+  - [ ] This modification has been tested to improve functionality
+    - Description of materials used:
+    - Description of test(s) performed:
+
+
+- [ ] This is a documentation improvement
+  - Describe reasoning behind change:
