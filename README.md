@@ -1,12 +1,18 @@
 # Open Source Gas Mask
 
-![Image of gas mask](/images/gasmask.png)
-
-NOTE: This is a preliminary design, that still needs testing and refinement.  Do not rely on this to save your life just yet.
+<div align="center">
+  <img width="600" src="/images/gasmask_animation.gif" alt="Animation of gas mask configurations" />
+  <p style="display: block; max-width: 800px; margin: 0 auto;" align="left">
+    NOTE:<br />
+    These are preliminary designs that still need testing and refinement. Do not rely on this to save your life just yet.
+    <br />
+    Configurations shown above are for illustrative purposes and do not imply validation. Always be sure to read and understand the documentation, recommendations, and limitations of every component you build.
+    </p>
+</div>
 
 ## About
 
-This is an open source 3D printable gas mask design. It consists of 3 main components - the mask itself, the filter canister, and the exhale valve. Each component in turn consists of multiple parts. The documents contained in this repository will guide you through selecting and building each component you need.
+This is an open source 3D printable gas mask design. It consists of 3 main components - the mask itself, the filter canister, and the exhale valve. Each component in turn may consist of multiple parts. The documents contained in this repository provide information to help you select and build each component.
 
 ## Components
 

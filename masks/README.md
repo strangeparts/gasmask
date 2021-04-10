@@ -1,6 +1,6 @@
 # Masks
 
-## Variations
+## Designs
 
 | Name | Size | Ports | Description | Print Time | Status |
 | - | - | - | - | - | - |

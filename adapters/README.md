@@ -2,7 +2,7 @@
 
 The masks in this repository are based on the NATO 40mm respirator thread standard. In order to allow these designs to interoperate with a wider variety of off-the-shelf components, this folder contains additional adapters which will convert the NATO threading to alternate standards. This is useful for anyone who would like to use off the shelf filters that are not NATO threaded.
 
-## External Adapters
+## External Designs
 
 | Filter Connector | Name / Link | Creator | Connectors Tested |
 | - | - | - | - |
