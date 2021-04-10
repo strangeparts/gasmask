@@ -5,5 +5,5 @@ Due to the potentially large volume of filter canisters, a one way exhale valve 
 
 | Valve | Description | Print Time | Status |
 | - | - | - | - |
-| FullyPrintedValve | Requires no extra parts. Not a perfect seal but useful if resources are limited. | ~2h | Tested |
+| FullyPrintedValve | Requires no extra parts. Not a perfect seal but useful if resources are limited. Can be augmented to provide an excellent seal. | ~2h | Tested |
 | BalloonValve | Requires a latex glove or thin balloon. Better if your craft skills are superior to your printer tune. | ~2h | Experimental |
