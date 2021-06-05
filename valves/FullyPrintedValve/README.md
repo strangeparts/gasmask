@@ -1,5 +1,7 @@
 # FullyPrintedValve
 
+<img height="300" src="images/valve_isometric.png" /><img height="300" src="images/valve_animation.gif" /><br />
+
 This valve was designed to be completely 3D printed, in the event that few other materials are available. Currently it requires aluminum tape or duct tape, both of which are available at hardware stores. The seal is pretty good, but not perfect, and still requires testing to determine whether it will fully protect the wearer.
 
 ## Overview
@@ -40,7 +42,11 @@ In order to build this valve, you will need:
 8. Use a piece of aluminum foil or duct tape to over the inlet plate, pressing to ensure a good seal.
 9. Trim the excess tape, ensuring that the tape extends completely to the edge and does not stop too close to the seam between the valve body and inlet plate. A little extra is fine, but too little will allow a leak. If tape is not available, glue may suffice at your own risk.
 10. Using a fingernail or sharp tool, score or cut the ridge around the center hole of the inlet plate and remove the resulting circle of tape to allow air to flow through the center hole. Avoid putting anything through the air hole to avoid damaging the diaphragm.
-11. Finally, you can test the valve by putting your mouth on either end. Air should be able to flow from the inlet plate through to the end with the knob. Airflow in the opposite direction should be close to nonexistent.
+
+  <img height="300" src="images/valve_foil_closeup.png" />
+
+
+11. Finally, you can test the valve by putting your mouth on either end. Air should be able to flow from the inlet plate through to the end with the knob. Airflow in the opposite direction should be blocked.
 
 ## Safety Warnings
 

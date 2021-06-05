@@ -1,6 +1,6 @@
 # NATO 40mm Filters
 
-## Variations
+## Designs
 
 | Name | Description | Connector Tested | Assembled Length (mm) | Internal Volume (cm<sup>3</sup>) |
 | - | - | - | - | - |
